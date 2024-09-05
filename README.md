@@ -25,9 +25,5 @@ WIP
 ## Architecture 🗼
 This app uses [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
 
-## Contribute 🤝
-If you want to contribute to this app, you're always welcome!
-See [Contributing Guidelines]
-
 <br>
 
