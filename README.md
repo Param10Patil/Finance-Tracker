@@ -31,10 +31,3 @@ See [Contributing Guidelines]
 
 <br>
 
-## Contact 📩
-
-## License 🔖
-```
-    Apache 2.0 License
-
-```
